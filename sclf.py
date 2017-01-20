@@ -87,7 +87,7 @@ def main():
     print("Macro Recall:       ", recall_score(true, pred, average='macro'))
 
     while True:
-        text = input("Input:")
+        text = input("Input: ")
         docs_new = [text]
         predicted = text_clf.predict(docs_new)
         for doc, category in zip(docs_new, predicted):
