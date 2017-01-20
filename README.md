@@ -1,6 +1,6 @@
 # Subreddit Classification
 
-Will train a support vector machine on reddit posts and use a naive Bayes classifier to predict what subreddit a post could have come from.
+Will train a support vector machine on reddit posts to predict what subreddit a post could have come from.
 
 ## Setup
 
