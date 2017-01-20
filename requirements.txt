@@ -1,0 +1,5 @@
+praw
+scipy
+numpy
+sklearn
+tqdm
